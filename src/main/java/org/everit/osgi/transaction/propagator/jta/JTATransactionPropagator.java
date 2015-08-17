@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package org.everit.osgi.transaction.helper.internal;
+package org.everit.osgi.transaction.propagator.jta;
 
 import java.util.HashMap;
 import java.util.Map;

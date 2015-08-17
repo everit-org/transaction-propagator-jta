@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package org.everit.transaction.propagator.test;
+package org.everit.transaction.propagator.jta.test;
 
 import javax.transaction.Status;
 

@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package org.everit.transaction.propagator.test;
+package org.everit.transaction.propagator.jta.test;
 
 import java.io.IOException;
 import java.util.Arrays;
@@ -27,7 +27,7 @@ import javax.transaction.xa.XAException;
 import javax.transaction.xa.XAResource;
 
 import org.apache.geronimo.transaction.manager.GeronimoTransactionManager;
-import org.everit.osgi.transaction.helper.internal.JTATransactionPropagator;
+import org.everit.osgi.transaction.propagator.jta.JTATransactionPropagator;
 import org.everit.transaction.propagator.TransactionPropagator;
 import org.everit.transaction.unchecked.UncheckedRollbackException;
 import org.junit.Assert;

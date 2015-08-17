@@ -27,8 +27,8 @@ import javax.transaction.xa.XAException;
 import javax.transaction.xa.XAResource;
 
 import org.apache.geronimo.transaction.manager.GeronimoTransactionManager;
-import org.everit.osgi.transaction.propagator.jta.JTATransactionPropagator;
 import org.everit.transaction.propagator.TransactionPropagator;
+import org.everit.transaction.propagator.jta.JTATransactionPropagator;
 import org.everit.transaction.unchecked.UncheckedRollbackException;
 import org.junit.Assert;
 import org.junit.Before;

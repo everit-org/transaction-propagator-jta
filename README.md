@@ -1,3 +1,3 @@
 # transaction-propagator-jta
 
-Documentation: http://wwww.everit.org/transaction-propagator-jta
+Documentation: http://www.everit.org/transaction-propagator-jta
